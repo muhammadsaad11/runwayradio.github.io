@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Runway Radio</title>
-	<atom:link href="http://runwayradio.github.io/feed/" rel="self" type="application/rss+xml" />
-	<link>http://runwayradio.github.io</link>
+	<atom:link href="https://runwayradio.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>https://runwayradio.github.io</link>
 	<description>Habib University</description>
 	<lastBuildDate>Wed, 10 Oct 2018 05:07:49 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.9.8</generator>
 
 <image>
-	<url>http://runwayradio.github.io/wp-content/uploads/2019/01/cropped-Artboard-1AppIcon2-1-32x32.png</url>
+	<url>https://runwayradio.github.io/wp-content/uploads/2019/01/cropped-Artboard-1AppIcon2-1-32x32.png</url>
 	<title>Runway Radio</title>
-	<link>http://runwayradio.github.io</link>
+	<link>https://runwayradio.github.io</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>http://runwayradio.github.io/hello-world/</link>
-		<comments>http://runwayradio.github.io/hello-world/#comments</comments>
+		<link>https://runwayradio.github.io/hello-world/</link>
+		<comments>https://runwayradio.github.io/hello-world/#comments</comments>
 		<pubDate>Tue, 09 Oct 2018 08:16:06 +0000</pubDate>
 		<dc:creator><![CDATA[osama]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
@@ -37,7 +37,7 @@
 		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://runwayradio.github.io/hello-world/feed/</wfw:commentRss>
+			<wfw:commentRss>https://runwayradio.github.io/hello-world/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 	</channel>
