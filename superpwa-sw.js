@@ -6,8 +6,8 @@
  */
  
 const cacheName = 'localhost-superpwa-2.0';
-const startPage = 'https://runwayradio.github.io/';
-const offlinePage = 'https://runwayradio.github.io/';
+const startPage = 'https://localhost/';
+const offlinePage = 'https://localhost/';
 const filesToCache = [startPage, offlinePage];
 const neverCacheUrls = [/\/wp-admin/,/\/wp-login/,/preview=true/];
 
