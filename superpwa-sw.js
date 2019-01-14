@@ -6,8 +6,8 @@
  */
  
 const cacheName = 'localhost-superpwa-2.0';
-const startPage = 'https://localhost/';
-const offlinePage = 'https://localhost/';
+const startPage = 'https://localhost/wordpress';
+const offlinePage = 'https://localhost/wordpress';
 const filesToCache = [startPage, offlinePage];
 const neverCacheUrls = [/\/wp-admin/,/\/wp-login/,/preview=true/];
 
