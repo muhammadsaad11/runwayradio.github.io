@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Podcast &#8211; Runway Radio</title>
+	<atom:link href="https://runwayradio.github.io/timetable/category/podcast/feed/" rel="self" type="application/rss+xml" />
+	<link>https://runwayradio.github.io</link>
+	<description>Habib University</description>
+	<lastBuildDate>Wed, 27 Feb 2019 07:55:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+
+<image>
+	<url>https://runwayradio.github.io/wp-content/uploads/2019/02/cropped-FaviconiOSLogo-32x32.png</url>
+	<title>Podcast &#8211; Runway Radio</title>
+	<link>https://runwayradio.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Podcast Day!</title>
+		<link>https://runwayradio.github.io/timetable/event/podcast-day/</link>
+		<pubDate>Sun, 24 Feb 2019 18:19:50 +0000</pubDate>
+		<dc:creator><![CDATA[osama]]></dc:creator>
+		
+		<guid isPermaLink="false">https://runwayradio.github.io/?post_type=mp-event&#038;p=267</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			</item>
+	</channel>
+</rss>
